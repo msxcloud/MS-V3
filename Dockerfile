@@ -1,4 +1,4 @@
-FROM mysterysd/wzmlx:v3
+FROM mslinkzzz/msbotzv3:latest
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
